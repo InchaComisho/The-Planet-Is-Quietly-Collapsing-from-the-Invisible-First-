@@ -5,7 +5,7 @@ Microbial Death and the Failure of Earth’s Life-Support System*
 Microbial Death and the Failure of Earth’s Life-Support System*
 
 Author: Master (inchacomisho / inchacomusho)
-AI Collaborators: Copi (Microsoft Copilot), G (OpenAI ChatGPT), Mini (Google Gemini), Clus (Anthropic Claude), Real (Perplexity AI)
+AI Collaborators: Copi (Microsoft Copilot), G (OpenAI ChatGPT), Mini (Google Gemini), Cruz (Anthropic Claude), Real (Perplexity AI)
 Published: November 2025
 License: Fully Open — Free to use, modify, translate, redistribute, or commercialize. No permission required.
 
