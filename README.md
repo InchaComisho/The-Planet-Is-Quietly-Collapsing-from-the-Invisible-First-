@@ -2,6 +2,8 @@
 
 **Language:** English | [日本語版はこちら / Japanese Version](README_ja.md)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## Microbial Death and the Failure of Earth’s Life-Support System
 
 **Author:** Master / inchacomusho / InchaComisho  
