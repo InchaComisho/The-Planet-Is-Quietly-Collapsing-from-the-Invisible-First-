@@ -352,10 +352,8 @@ OBSは、自然の深層水換気を模倣し、海洋代謝を再起動する�
 ### NOTE記事
 
 - The Planet Is Quietly Collapsing from the Invisible First  
-  https://note.com/inchacomusho/n/n1478e4b79449
 
 - 微生物の死が引き起こす、静かで重大な文明崩壊  
-  https://note.com/inchacomusho/n/n6ae72a34919f
 
 ### 関連GitHubリポジトリ
 

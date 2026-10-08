@@ -336,8 +336,6 @@ It is technology for complementing Earth’s life-support functions.
 - In cities, it complements evaporative cooling and water circulation.
 - In soil, it complements microorganisms, humus formation, and organic matter cycles.
 
-https://note.com/inchacomusho/n/n1478e4b79449?app_launch=false
-https://note.com/inchacomusho/n/n6ae72a34919f
 Human technology should not replace nature.
 
 It should be used to restore the conditions under which damaged natural circulation can function again.
@@ -351,10 +349,8 @@ This is the principle of Natural Complementation Science.
 ### NOTE Articles
 
 - The Planet Is Quietly Collapsing from the Invisible First  
-  https://note.com/inchacomusho/n/n1478e4b79449
 
 - The Quiet and Serious Civilizational Collapse Caused by Microbial Death  
-  https://note.com/inchacomusho/n/n6ae72a34919f
 
 ### Related GitHub Repositories
 
